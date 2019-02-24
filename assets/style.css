@@ -135,8 +135,16 @@ h2 {
     
 }
 
-.text-success {
-    color: #ffffff;
+.link {
+ font-family: 'Coiny', sans-serif;
+ font-size: 20px;
+ color: #f44336;
+ transition: 1.0s; 
+}
+
+.link:hover {
+ color: #ffffff;
+
 }
 
 /*-----------------------------------------FOOTER*/
