@@ -36,17 +36,41 @@
  font-family: 'Coiny', sans-serif;
  font-size: 27px;
  font-weight: 300;
- color: red;
+ color: #f44336;
  transition: 1.0s;
     
 }
 
-
 /*----------------------------------------------HOVER*/
 
 .nav-link:hover {
- background: black;
- color: gold;
+ color: #ffffff;
+ font-weight: 400;
+}
+
+
+/*--------------------------------------------SECTION*/
+
+.container-margin {
+    margin-top: 50px;
+}
+
+.bg-color {
+    background-color: #000000;
+    
+}
+
+.fg-properties {
+  text-align: center;
+  font-family: 'Felipa', sans-serif;
+  font-size: 25px;
+  color: #ffffff;
+  transition: 0.8s
+    
+}
+
+.fg-properties:hover {
+ color: #f44336;
  font-weight: 400;
 }
 
@@ -67,42 +91,11 @@
     margin-top: 15px;
 }
 
-/*--------------------------------------------SECTION*/
-
-.container-margin {
-    margin-top: 50px;
-}
-
-.bg-color {
-    background-color: #3e4444;
-    
-}
-
-.fg-properties {
-  text-align: center;
-  font-family: 'Felipa', sans-serif;
-  font-size: 25px;
-  color: #86af49;
-  transition: 0.8s
-    
-}
-    
-
-/*-----------------------------------------FOOTER*/
-
-footer {
-    margin-top: 30px;
-    margin-bottom: 50px;
-}
-
-.d-flex {
-    padding-right: 25px;
-}
 
 /*-----------------------------------------ALBUMS*/
 
 h2 {
-    color: red;
+    color: #f44336;
     text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -117,13 +110,13 @@ h2 {
 }
 
 .card-body {
-    background-color: black;
+    background-color: #000000;
 }
 
 .card-text {
     text-align: center;
-    color: #86af49;
-    background-color: black;
+    color: #ffffff;
+    background-color: #000000;
     font-family: 'Felipa', sans-serif;
     font-weight: 200;
     font-size: 22px;
@@ -143,8 +136,28 @@ h2 {
 }
 
 .text-success {
-    color: #86af49;
+    color: #ffffff;
 }
 
+/*-----------------------------------------FOOTER*/
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.d-flex {
+    padding-right: 25px;
+}
+
+.social {
+    font-size: 40px;
+}
+
+@media(max-width: 600px) {
+   .card {
+       margin-left: 20px;
+    }
+}
 
 
