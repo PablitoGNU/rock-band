@@ -1,0 +1,151 @@
+/*Fonts**********************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css?family=Coiny'); 
+@import url('https://fonts.googleapis.com/css?family=Felipa');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+/*BODY BACKGROUNDS**********************************************************************************************************************/
+
+.BG1 {
+    background-image: url("https://livewallpaper.info/wp-content/uploads/2017/08/Black-Water-Droplets-wallpaper-wp6003634.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.BG2 {
+    background-color: #3e4444;
+}
+
+.gallery-background {
+    background-image: url("../project/gallery/gallerybackground.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*HOME**************************************************************************************************************************************/
+    
+.display-4 {
+    text-align: center;
+    margin-top: 15px;
+    color: #ffffff;
+    font-family: 'Coiny', sans-serif;
+    font-weight: 500;
+}
+
+.nav-link {
+ font-family: 'Coiny', sans-serif;
+ font-size: 27px;
+ font-weight: 300;
+ color: red;
+ transition: 1.0s;
+    
+}
+
+
+/*hover****************************************************************************************************************************************/
+.nav-link:hover {
+ background: black;
+ color: gold;
+ font-weight: 400;
+}
+
+
+/*main ******************************************************************************************************************************/
+
+
+.blockquote {
+    margin-top: 15px;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    
+}
+
+.clip {
+    margin-top: 15px;
+}
+
+/*section******************************************************************************************************************************/
+
+.container-margin {
+    margin-top: 50px;
+}
+
+.bg-color {
+    background-color: #3e4444;
+    
+}
+
+.fg-properties {
+  text-align: center;
+  font-family: 'Felipa', sans-serif;
+  font-size: 25px;
+  color: #86af49;
+  transition: 0.8s
+    
+}
+    
+
+/*FOOTER **********************************************************************************************************************************/
+
+footer {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.d-flex {
+    padding-right: 25px;
+}
+
+/*albums*****************************************************************************************************************************/
+
+h2 {
+    color: red;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Coiny', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+
+.col-sm-4 {
+    margin-top: 15px;
+}
+
+.card-body {
+    background-color: black;
+}
+
+.card-text {
+    text-align: center;
+    color: #86af49;
+    background-color: black;
+    font-family: 'Felipa', sans-serif;
+    font-weight: 200;
+    font-size: 22px;
+}
+
+
+
+/*history**************************************************************************************************/
+
+.history-p {
+    text-indent: 50px;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    letter-spacing: 3px;
+    color: #ffffff;
+    
+}
+
+.text-success {
+    color: #86af49;
+}
+
+
+/*gallery****************************************************************************************************************/
