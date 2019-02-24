@@ -1,10 +1,6 @@
-/*---------------------------------------------Fonts*/
 @import url('https://fonts.googleapis.com/css?family=Coiny'); 
 @import url('https://fonts.googleapis.com/css?family=Felipa');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
-
-
-/*---------------------------------------------BODY BACKGROUNDS*/
 
 .BG1 {
     background-image: url("https://livewallpaper.info/wp-content/uploads/2017/08/Black-Water-Droplets-wallpaper-wp6003634.jpg");
@@ -18,7 +14,7 @@
 }
 
 .gallery-background {
-    background-image: url("../project/gallery/gallerybackground.jpg");
+    background-image: url("../assets/images/gallerybackground.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,7 +40,8 @@
 }
 
 
-/*hover*/
+/*----------------------------------------------HOVER*/
+
 .nav-link:hover {
  background: black;
  color: gold;
