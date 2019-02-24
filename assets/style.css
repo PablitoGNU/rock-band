@@ -1,7 +1,9 @@
+/*----------------------------------------------FONTS*/
 @import url('https://fonts.googleapis.com/css?family=Coiny'); 
 @import url('https://fonts.googleapis.com/css?family=Felipa');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+/*----------------------------------------------BACKGROUND'S*/
 .BG1 {
     background-image: url("https://livewallpaper.info/wp-content/uploads/2017/08/Black-Water-Droplets-wallpaper-wp6003634.jpg");
     background-position: center;
