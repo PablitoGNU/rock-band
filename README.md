@@ -1,39 +1,40 @@
 CREEDENCE CLEARWATER REVIVAL
 
-This is my offcial website of the great band from 60's.
+    This is my offcial website of the great band from 60's.
 
-"Creedence Clearwater Revivival"
+    "Creedence Clearwater Revivival"
 
 ***************************************************************************************************************************************************************************
+
 UX
 
-This website will take to world of 60's. 
+    This website will take to world of 60's. 
 
-Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
-Nav links at the top will take to other pages, color is changing on them from red to white.  
-The home page contains embedded youtube video, "Green River".
-There is a quote at the top of each page which is taken from the lyrics of "Have You Ever Seen The Rain" song.
-Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab in your browser.
-At the botton of the Home page there are nav links which will take to to other pages, and also social links are included.
+    Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
+    Nav links at the top will take to other pages, color is changing on them from red to white.  
+    The home page contains embedded youtube video, "Green River".
+    There is a quote at the top of each page which is taken from the lyrics of "Have You Ever Seen The Rain" song.
+    Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab in your browser.
+    At the botton of the Home page there are nav links which will take to to other pages, and also social links are included.
 
 ***************************************************************************************************************************************************************************
 
-Albums page contains information about Creedence Clearwater Revival discography. By clicking on each album you can get more information by reading the wiki pages.
+    Albums page contains information about Creedence Clearwater Revival discography. By clicking on each album you can get more information by reading the wiki pages.
 
-History page will give interesting information about the band. Gallery page contains wall with photos.
+    History page will give interesting information about the band. Gallery page contains wall with photos.
 
-The Dude page. "Big Lebowski" why???
+    The Dude page. "Big Lebowski" why???
 
-He loves Creedence Clearwater Revival and he hates the... This is really cool video clip.
+    He loves Creedence Clearwater Revival and he hates the... This is really cool video clip.
 
 ****************************************************************************************************************************************************************************
 
 Technologies Used
 
-1. HTML5,
-2. CSS,
-3, Media queries,
-4. BOOTSTRAP v4.0.
+    1. HTML5,
+    2. CSS,
+    3, Media queries,
+    4. BOOTSTRAP v4.0.
 
 Technical information and Testing
 
@@ -45,9 +46,7 @@ Technical information and Testing
 
 How to run your website locally.
 
-Content,
-
-Apache2 running on Debian.
+    Apache2 running on Debian.
 
     1. Download rock-band.tar.gz
     2. Install apache2, apt update then run apt install apache2 .
