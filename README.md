@@ -1,92 +1,79 @@
 CREEDENCE CLEARWATER REVIVAL
 
 This is my offcial website of the great band from 60's.
+
 "Creedence Clearwater Revivival"
 
+***************************************************************************************************************************************************************************
 UX
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This website will take to world of 60's. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
+Nav links at the top will take to other pages, color is changing on them from red to white.  
+The home page contains embedded youtube video, "Green River".
+There is a quote at the top of each page which is taken from the lyrics of "Have You Ever Seen The Rain" song.
+Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab in your browser.
+At the botton of the Home page there are nav links which will take to to other pages, and also social links are included.
 
-    As a user type, I want to perform an action, so that I can achieve a goal.
+***************************************************************************************************************************************************************************
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-Features
+Albums page contains information about Creedence Clearwater Revival discography. By clicking on each album you can get more information by reading the wiki pages.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-Existing Features
+History page will give interesting information about the band. Gallery page contains wall with photos.
 
-    Feature 1 - allows users X to achieve Y, by having them fill out Z
-    ...
+The Dude page. "Big Lebowski" why???
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+He loves Creedence Clearwater Revival and he hates the... This is really cool video clip.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-Features Left to Implement
-
-    Another feature idea
+****************************************************************************************************************************************************************************
 
 Technologies Used
 
-1. HTML,
+1. HTML5,
 2. CSS,
-3. BOOTSRAP v4.0.
+3, Media queries,
+4. BOOTSTRAP v4.0.
 
-Testing
+Technical information and Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+    This website has been created in Cloud9. The Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
+    All photos are stored locally in the /assets/images/ folder.
+    CSS stylesheet is stored in /assets folder.
+    This website contain 5 HTML files(index,albums,history,photos and dude.html)
+    This website is responsive and has been tested using using "Responsive Design Mode" from Firefox Web Developer and also using Chrome DevTools.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+How to run your website locally.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Content,
 
-    Contact form:
-        Go to the "Contact Us" page
-        Try to submit the empty form and verify that an error message about the required fields appears
-        Try to submit the form with an invalid email address and verify that a relevant error message appears
-        Try to submit the form with all inputs valid and verify that a success message appears.
+Apache2 running on Debian.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-    Different values for environment variables (Heroku Config Vars)?
-    Different configuration files?
-    Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-Credits
-Content
-
-    The text for section Y was copied from the Wikipedia article Z
+    1. Download rock-band.tar.gz
+    2. Install apache2, apt update then run apt install apache2 .
+    3. Apache2 document root directory on Debian 9 by default is /var/www/html .
+    4. Extract tar -xvzf rock-band.tar.gz -C /var/www/html .
+    5. Restart Apache2 deamon, systemctl restart apache2.service .
 
 HISTORY,
 
-History article has been copied form below website,
-https://www.creedence-online.net/history/
+    History article has been copied form below website,
+    https://www.creedence-online.net/history/
 
 
 
 Media
 
     The photos used on this website were obtained from;
-    
     Image search using google,
     additional photos were taken from below website,
     https://www.creedence-online.net/photo_gallery/
     
 Acknowledgements
 
-    I received inspiration for this project from X
+    This is my first project for Fullstack Developer with Code Institute. The requirment was to create the website for Rock band from 60's so I have chosen Creedence Clearwater Revivival.
+    I think I dont have to answer the questions WHY... :)
 
 Disclaimer
 
-This is for educational purposes only.
+    For now this is website has been created for educational purposes only.
