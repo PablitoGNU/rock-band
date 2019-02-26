@@ -13,7 +13,7 @@ UX
     Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
     Nav links at the top will take to other pages, color is changing on them from red to white.  
     The home page contains embedded youtube video, "Green River".
-    There is a quote at the top of each page which is taken from the lyrics of "Have You Ever Seen The Rain" song.
+    There is a quote at the top of each page which is taken from lyrics of thier song "Have You Ever Seen The Rain"
     Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab in your browser.
     At the botton of the Home page there are nav links which will take to to other pages, and also social links are included.
 
@@ -75,4 +75,4 @@ Acknowledgements
 
 Disclaimer
 
-    For now this is website has been created for educational purposes only.
+    For now, this is website has been created for educational purposes only.

@@ -52,7 +52,7 @@
 /*--------------------------------------------SECTION*/
 
 .container-margin {
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .bg-color {
@@ -80,15 +80,14 @@
 
 .blockquote {
     margin-top: 15px;
-    text-align: center;
     color: #ffffff;
     font-family: 'Raleway', sans-serif;
-    font-size: 25px;
+    font-size: 23px;
     
 }
 
 .clip {
-    margin-top: 15px;
+    margin-top: 18px;
 }
 
 
@@ -97,10 +96,10 @@
 h2 {
     color: #f44336;
     text-align: center;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: px;
+    margin-bottom: 20px;
     font-family: 'Coiny', sans-serif;
-    font-size: 25px;
+    font-size: 27px;
     font-weight: 300;
 }
 
@@ -127,10 +126,10 @@ h2 {
 /*-----------------------------------------------HISTORY*/
 
 .history-p {
-    text-indent: 50px;
+    font-size: 16px;
     font-family: 'Raleway', sans-serif;
     text-align: justify;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     color: #ffffff;
     
 }
@@ -140,6 +139,8 @@ h2 {
  font-size: 20px;
  color: #f44336;
  transition: 1.0s; 
+
+    
 }
 
 .link:hover {
@@ -151,15 +152,16 @@ h2 {
 
 footer {
     margin-top: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
-.d-flex {
-    padding-right: 25px;
-}
 
 .social {
     font-size: 40px;
+}
+
+.contact {
+    color:white;
 }
 
 /*-----------------------------------------MEDIA Q*/
