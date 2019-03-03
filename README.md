@@ -1,14 +1,14 @@
 ## CREEDENCE CLEARWATER REVIVAL
 
-    This is my offcial website of the great band from 60's.
+    **This is my offcial website of the great band from 60's.**
 
-    Creedence Clearwater Revivival
+    "Creedence Clearwater Revivival"
 
-***************************************************************************************************************************************************************************
+
 
 ### UX
 
-    _This_ website will take to world of 60's
+    This_ website will take to world of 60's
 
     Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
     Nav links at the top will take you to other pages, color is changing on them from red to white.  
@@ -17,7 +17,7 @@
     Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab.
     At the botton of the Home page there are nav links which will take you to to other pages, and also social links are included.
 
-***************************************************************************************************************************************************************************
+
 
     Albums page contains information about Creedence Clearwater Revival discography. By clicking on each album you can get more information by reading the wiki pages.
 
@@ -27,7 +27,7 @@
 
     He loves Creedence Clearwater Revival and he hates the... This is really cool video clip.
 
-****************************************************************************************************************************************************************************
+
 
 ### Technologies Used
 
