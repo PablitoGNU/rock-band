@@ -10,16 +10,16 @@
 
 *This website will take to world of 60's*
 
-Home page background contains background with black water drops and refers to the name of the band(Clearwater).   
-Nav links at the top will take you to other pages, color is changing on them from red to white.  
-The Home page contains embedded youtube video, "Green River".
-There is a quote at the top of each page which is taken from lyrics of thier song "Have You Ever Seen The Rain"
-Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab.
-At the botton of the Home page there are nav links which will take you to to other pages, and also social links are included.
-Albums page contains information about Creedence Clearwater Revival discography. By clicking on each album you can get more information by reading the wiki pages.
-History page will give you interesting information about the band. Gallery page contains wall with photos.
-The Dude page. "Big Lebowski" why???
-He loves Creedence Clearwater Revival and he hates the... This is really cool video clip.
+*Home page background* contains background with black water drops and refers to the name of the band(Clearwater).   
+*Nav links* at the top will take you to other pages, *color* is changing on them from red to white.  
+*The Home page* contains embedded youtube video, "Green River".
+There is a *Quote* at the top of each page which is taken from lyrics of thier song "Have You Ever Seen The Rain"
+Additionally on the *homepage there is a list with 20 songs* I called them *Classics.* Each song is a link to youtube and will open in the new Tab.
+*At the botton* of the Home page there are *nav links* which will take you to to other pages, and also social links are included.
+*Albums* page contains information about Creedence Clearwater Revival discography. By clicking on each album you can get more information by reading the wiki pages.
+*History* page will give you interesting information about the band. Gallery page contains wall with photos.
+*The Dude page.* "Big Lebowski" why???
+He loves Creedence Clearwater Revival and he hates the... *This is really cool video clip.*
 
 ### Technologies Used
 
