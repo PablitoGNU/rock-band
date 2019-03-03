@@ -1,21 +1,21 @@
 ## CREEDENCE CLEARWATER REVIVAL
 
-#### This is my offcial website of the great band from 60's. ####
+##### This is my offcial website of the great band from 60's. #####
 
-##### Creedence Clearwater Revivival #####
+#### Creedence Clearwater Revivival ####
 
 
 
 ### UX
 
-**This_ website will take to world of 60's
+**This_ website will take to world of 60's**
 
-*Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
-Nav links at the top will take you to other pages, color is changing on them from red to white.  
-The Home page contains embedded youtube video, "Green River".
-There is a quote at the top of each page which is taken from lyrics of thier song "Have You Ever Seen The Rain"
-Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab.
-At the botton of the Home page there are nav links which will take you to to other pages, and also social links are included.*
+    Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
+    Nav links at the top will take you to other pages, color is changing on them from red to white.  
+    The Home page contains embedded youtube video, "Green River".
+    There is a quote at the top of each page which is taken from lyrics of thier song "Have You Ever Seen The Rain"
+    Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab.
+    At the botton of the Home page there are nav links which will take you to to other pages, and also social links are included.
 
 
 
@@ -45,8 +45,9 @@ At the botton of the Home page there are nav links which will take you to to oth
 
 ### How to run your website locally.
 
-     Open below link in your browser.
-    https://pablitognu.github.io/rock-band
+**Clink link below**
+(https://pablitognu.github.io/rock-band/)
+
 ### HISTORY,
 
     History article has been copied form below website,
