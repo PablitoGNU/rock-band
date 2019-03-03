@@ -45,7 +45,7 @@
 
 ### How to run your website locally.
 
-    [open me](https://pablitognu.github.io/rock-band/)
+    [open me](https://pablitognu.github.io/rock-band)
 
 ### HISTORY,
 
