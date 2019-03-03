@@ -8,7 +8,7 @@
 
 ### UX
 
-    *This* website will take to world of 60's
+    _This_ website will take to world of 60's
 
     Home page background contains background with black water drops and refers to the name of the band(Clearwater). 
     Nav links at the top will take you to other pages, color is changing on them from red to white.  
