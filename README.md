@@ -45,8 +45,7 @@
 
 ### How to run your website locally.
 
-    *Please clink on the below link;*
-    (https://pablitognu.github.io/rock-band/)
+    [open me](https://pablitognu.github.io/rock-band/)
 
 ### HISTORY,
 
