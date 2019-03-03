@@ -35,11 +35,11 @@
 
 ### Technical information and Testing
 
-    This website has been created in Cloud9. The Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
-    All photos are stored locally in the /assets/images/ folder.
-    CSS stylesheet is stored in /assets folder.
-    This website contain 5 HTML files(index,albums,history,photos and dude.html)
-    This website is responsive and has been tested using using "Responsive Design Mode" from Firefox Web Developer and also using Chrome DevTools.
+This website has been created in Cloud9. The Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
+All photos are stored locally in the /assets/images/ folder.
+CSS stylesheet is stored in /assets folder.
+This website contain 5 HTML files(index,albums,history,photos and dude.html)
+This website is responsive and has been tested using using "Responsive Design Mode" from Firefox Web Developer and also using Chrome DevTools.
 
 ### How to run your website locally.
 
