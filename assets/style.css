@@ -41,6 +41,14 @@
     
 }
 
+.classics {
+    text-align: center;
+    font-family: 'Coiny', sans-serif;
+    font-size: 27px;
+    color: #f44336;
+    
+}
+
 /* ----------------------------------------------HOVER */
 
 .nav-link:hover {
