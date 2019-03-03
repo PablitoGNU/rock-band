@@ -60,11 +60,11 @@ Additional photos were taken from below website,
     
 ### Acknowledgements
 
-    This is my first project for Code Institute. The requirment was to create the website for Rock band from 60's so I have chosen Creedence Clearwater Revivival.
-    I think I dont have to answer the questions WHY... :)
+This is my first project for Code Institute. The requirment was to create the website for Rock band from 60's so I have chosen Creedence Clearwater Revivival.
+I think I dont have to answer the questions WHY... :)
 
 ### Disclaimer
 
-    For now, this is website has been created for educational purposes only.
+For now, this is website has been created for educational purposes only.
     
     
