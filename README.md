@@ -17,8 +17,6 @@
     Additionally on the homepage there is a list with 20 songs I called them Classics. Each song is a link to youtube and will open in the new Tab.
     At the botton of the Home page there are nav links which will take you to to other pages, and also social links are included.
 
-
-
     Albums page contains information about Creedence Clearwater Revival discography. By clicking on each album you can get more information by reading the wiki pages.
 
     History page will give you interesting information about the band. Gallery page contains wall with photos.
@@ -45,7 +43,7 @@
 
 ### How to run your website locally.
 
-**Clink link below**
+*Just click the link*
 (https://pablitognu.github.io/rock-band/)
 
 ### HISTORY,
