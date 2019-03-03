@@ -1,8 +1,8 @@
 ## CREEDENCE CLEARWATER REVIVAL
 
-    **This is my offcial website of the great band from 60's.**
+    #### This is my offcial website of the great band from 60's. ####
 
-    "Creedence Clearwater Revivival"
+    ##### Creedence Clearwater Revivival #####
 
 
 
